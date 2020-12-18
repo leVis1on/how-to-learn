@@ -265,6 +265,7 @@ h1, h2, h3, p {
   padding-top: 90px;
   padding-bottom: 90px;
   display: flex;
+  overflow: hidden;
   flex-direction: column;
   align-items: center;
   background-color: #1f1f1f;
@@ -290,7 +291,6 @@ h1, h2, h3, p {
   position: absolute;
   top: 0;
   right: -210px;
-  overflow: hidden;
   width: 877px;
   height: 877px;
   background-image: url('../images/kaufman-triangle.svg');
