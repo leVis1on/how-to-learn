@@ -137,6 +137,10 @@
   padding-bottom: 30px;
 }
 
+.two-columns__paragraph:last-child {
+  padding-bottom: 0px;
+}
+
 .two-columns__span-accent {
   font-weight: bold;
 }
@@ -173,6 +177,8 @@
   flex-wrap: wrap;
   justify-content: space-between;
   list-style-type: none;
+  padding-left: 0;
+  margin: 0;
 }
 
 .table__cell {
@@ -355,6 +361,8 @@
   justify-content: space-between;
   padding-bottom: 16px;
   list-style-type: none;
+  padding-left: 0;
+  margin: 0;
 }
 
 .footer__column-link {
