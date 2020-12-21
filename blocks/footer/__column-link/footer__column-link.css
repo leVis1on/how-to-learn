@@ -1,0 +1,25 @@
+.footer__column-link {
+    color: white;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    transition: opacity 0.4s ease-in-out;
+}
+  
+.footer__column-link:link {
+    color: white;
+    text-decoration: none;
+}
+.footer__column-link:visited {
+    color: white;
+    text-decoration: none;
+}
+.footer__column-link:active {
+    color: white;
+    text-decoration: none;
+}
+.footer__column-link:hover {
+    color: white;
+    text-decoration: none;
+    opacity: 0.5;
+}
